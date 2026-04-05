@@ -1,4 +1,4 @@
-# 3D Track
+# Surgical_Multi-Task_AI_Assistant
 
 Web-based scaffold for a surgical multi-task AI assistant focused on endoscopic scene understanding.
 
